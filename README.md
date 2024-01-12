@@ -4,15 +4,34 @@
 * Created by using Yandex Cloud Functions and Firebase to created a backend for the project.
 * Was written on three programming languages: Python, JavaScript and SQL for database management
 * To test it, you can use a link, but you need to submit invite to test it: https://dialogs.yandex.ru/share?key=SYQUAwd4mYLSKHeXHzxx
-* Let's look, how this project is working!
 
-# Demonstration of work
+# Results of hackathon
+* After participation, I with my team took 3rd place in this hackathon and won prize 150 thousand tenge (330 dollars):
+
+<div align="center">
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/d884bb29-15f7-4e23-9a8c-a6b36af33695" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/d153c6ef-87ca-4a8d-83a2-ad5d92e1e02e" />
+</div>
+
+* Also, we were published in the media of Kazakhstan and Forbes:
+* Forbes link: https://forbes.kz//actual/technologies/yes_future_itogi_2023_goda_po_hakatonam_ot_halyk/
+* Media of Kazakhstan link: https://www.inform.kz/ru/molodih-kazahstantsev-nauchili-sozdavat-naviki-dlya-golosovogo-assistenta-4add30
+
+<div align="center">
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/7c6116bc-e327-4d27-a418-03c361063f11" height="400"/>
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/7507ca0c-9c3c-4785-aa2e-0760cc179a58" height="400"/>
+</div>
+
+# Demonstration of project
 
 * After launching assistant via Yandex, you see greeting in the chat with Alice (translated on the English language below images) or hear on the voice-controlled speaker:
 
 <div align="center">
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/8e7286a0-1cc7-4180-9dbc-ed49e9e9467c" />
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/1d326132-6bfe-48b6-a0d8-aa5687a09287" />
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/8e7286a0-1cc7-4180-9dbc-ed49e9e9467c" height="400"/>
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/1d326132-6bfe-48b6-a0d8-aa5687a09287" height="400"/>
 </div>
 <br>
 
@@ -57,6 +76,3 @@
   <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/d33683b8-d1c1-40ee-a42a-beda908f3cb3" />
   <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/8164ee03-2fdd-4f13-ade2-6d531500b1ea" />
 </div>
-
-# Results of hackathon
-* After participation, I with my team 
