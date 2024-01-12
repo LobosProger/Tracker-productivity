@@ -6,7 +6,7 @@
 * To test it, you can use a link, but you need to submit invite to test it: https://dialogs.yandex.ru/share?key=SYQUAwd4mYLSKHeXHzxx
 
 # Results of hackathon
-* After participation, I with my team took 3rd place in this hackathon and won prize 150 thousand tenge (330 dollars):
+* After participation, my team took 3rd place in this hackathon and won prize 150 thousand tenge (330 dollars):
 
 <div align="center">
   <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/d884bb29-15f7-4e23-9a8c-a6b36af33695" />
