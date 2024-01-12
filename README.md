@@ -38,8 +38,8 @@
 * Then, asking him about what he can do, he will explain about functionality for user:
 
 <div align="center">
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/b30c2013-5531-4ad6-b5c6-0aaf363fedec" />
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/8868da82-7df7-4d4c-804e-2b27e85107c7" />
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/b30c2013-5531-4ad6-b5c6-0aaf363fedec" height="400"/>
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/8868da82-7df7-4d4c-804e-2b27e85107c7" height="400"/>
 </div>
 
 # Capturing activities during day
@@ -47,15 +47,15 @@
 * After entering record about activity (for example, programming with time of activity from 10:00 to 12:00) he will send a response about successful saving:
 
 <div align="center">
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/fb68e853-294e-4cdc-a7b1-3972fe010b21" />
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/8c7b17df-b599-4f85-b27f-08702498f263" />
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/fb68e853-294e-4cdc-a7b1-3972fe010b21" height="400"/>
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/8c7b17df-b599-4f85-b27f-08702498f263" height="400"/>
 </div>
 
 * Let's try to add additional record (for example, study English language):
 
 <div align="center">
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/57c92dda-afbb-4f46-98b8-103ab6eaa998" />
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/59d13ff1-4fb6-4b9b-89aa-093497cb95e6" />
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/57c92dda-afbb-4f46-98b8-103ab6eaa998" height="400"/>
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/59d13ff1-4fb6-4b9b-89aa-093497cb95e6" height="400"/>
 </div>
 
 # Statistics and report by AI
@@ -64,8 +64,8 @@
 * Statistics is capturing on backend servers of Yandex Cloud:
 
 <div align="center">
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/4f64c5b8-ff74-4afd-871e-9f643cc5636d" />
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/214d16bc-2db9-4bd7-9fb2-024318dfe220" />
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/4f64c5b8-ff74-4afd-871e-9f643cc5636d" height="400"/>
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/214d16bc-2db9-4bd7-9fb2-024318dfe220" height="400"/>
 </div>
 
 * Then, after entering message "Get report" user gets a generated report by ChatGPT, which analyzed activity of user for certain period of time (day, week, month)
@@ -73,6 +73,6 @@
 * ChatGPT is set upped by prompt engineering, like analyzing input data and answering in certain manner:
 
 <div align="center">
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/d33683b8-d1c1-40ee-a42a-beda908f3cb3" />
-  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/8164ee03-2fdd-4f13-ade2-6d531500b1ea" />
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/d33683b8-d1c1-40ee-a42a-beda908f3cb3" height="400"/>
+  <img src="https://github.com/LobosProger/Tracker-productivity/assets/78168123/8164ee03-2fdd-4f13-ade2-6d531500b1ea" height="400"/>
 </div>
